@@ -5,8 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Learning creating flutter app](https://github.com/Pragyanadhikari/flutter)
-
 - 🌱 I’m currently learning **Django**.
 
 - 👯 I’m looking to collaborate on [Python](https://github.com/Pragyanadhikari/Codsoft)
