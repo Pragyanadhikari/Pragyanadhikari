@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working in **Django**.
 
-- 👯 I’m looking to collaborate on [Python](https://github.com/Pragyanadhikari/Codsoft)
+- 👯 I’m looking to collaborate on [Python](https://github.com/Pragyanadhikari/portfolio-website)
 
 - 🤝 I’m looking for help with **AI,ML**
 
