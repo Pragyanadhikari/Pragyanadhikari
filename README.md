@@ -159,21 +159,6 @@ I enjoy turning ideas into working solutions, learning through experimentation, 
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="./metrics-achievements.svg" width="100%" alt="GitHub Achievements"/>
-</p>
-
----
-
-## 🌇 GitHub City
-
-<p align="center">
-  <img src="./metrics-skyline.svg" width="100%" alt="GitHub Skyline"/>
-</p>
-
----
 
 ## 🈷️ Languages
 
