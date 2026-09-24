@@ -1,35 +1,198 @@
-<h1 align="center">Hi 👋, I'm Pragyan Adhikari</h1>
-<h3 align="center">A Computer Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyanadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="pragyanadhikari" /> </p>
+# 👋 Hi, I'm Pragyan Adhikari
 
+### Computer Engineer | Backend Developer | AI/ML & Data Science Enthusiast
 
-
-- 🌱 I’m currently working in **Django**.
-
-- 👯 I’m looking to collaborate on [Python](https://github.com/Pragyanadhikari/portfolio-website)
-
-- 🤝 I’m looking for help with **AI,ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pragyanadhikari?tab=repositories](https://github.com/Pragyanadhikari?tab=repositories)
-
-- 📫 How to reach me **pragyanadhikari961@gmail.com**
-
-- ⚡ Fun fact **Let's not code to create new thoughts, Let new thought make you code.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/justbeinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justbeinger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pragyan adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragyan adhikari" height="30" width="40" /></a>
-<a href="https://fb.com/pragyan adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pragyan adhikari" height="30" width="40" /></a>
-<a href="https://instagram.com/pragyan adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pragyan adhikari" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Pragyanadhikari">
+    <img src="https://komarev.com/ghpvc/?username=Pragyanadhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pragyanadhikari&show_icons=true&locale=en&layout=compact" alt="pragyanadhikari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pragyanadhikari&show_icons=true&locale=en" alt="pragyanadhikari" /></p> -->
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragyanadhikari&" alt="pragyanadhikari" /></p>
+I'm a **Computer Engineer** passionate about building practical software systems and exploring the intersection of **backend development, artificial intelligence, machine learning, and data science**.
+
+I primarily work with **Python and Django**, building web applications and REST APIs, while also exploring machine learning, deep learning, computer vision, data analysis, and intelligent systems.
+
+I enjoy turning ideas into working solutions, learning through experimentation, and continuously improving the way I build and solve problems.
+
+> **"Let's not code to create new thoughts; let new thoughts make you code."**
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css,matlab" alt="Programming Languages"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,express,nodejs,react,nextjs,flutter,tensorflow,opencv" alt="Frameworks and Libraries"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" alt="Tools and Platforms"/>
+</p>
+
+---
+
+## 🧠 Skills & Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Development
+
+* Python
+* Django
+* Django REST Framework
+* REST API Development
+* PostgreSQL
+* Authentication & Authorization
+
+### Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Intelligent Systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### Data & Machine Learning
+
+* Data Analysis
+* Data Visualization
+* Pandas
+* TensorFlow
+* Scikit-learn
+* Model Development
+
+### Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Git & GitHub
+* Docker
+* System Design
+* Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🔭 Building backend systems using **Python & Django**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 📊 Working with **Data Science & intelligent data-driven systems**
+* 🌱 Continuously learning modern software engineering practices
+* 🤝 Open to collaborating on interesting **Python, AI/ML and software engineering projects**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Pragyanadhikari" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pragyan-adhikari/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pragyanadhikari961@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+  </a>
+</p>
+
+📫 **Email:** [pragyanadhikari961@gmail.com](mailto:pragyanadhikari961@gmail.com)
+
+---
+
+# 📊 GitHub Metrics
+
+## 📅 Isometric Commit Calendar
+
+<p align="center">
+  <img src="./metrics-isocalendar.svg" width="100%" alt="Isometric Commit Calendar"/>
+</p>
+
+---
+
+## 💡 Coding Habits & Activity
+
+<p align="center">
+  <img src="./metrics-habits.svg" width="100%" alt="Coding Habits and Activity"/>
+</p>
+
+---
+
+## 🎟️ Issues & Pull Requests
+
+<p align="center">
+  <img src="./metrics-followup.svg" width="100%" alt="Issues and Pull Requests"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="./metrics-achievements.svg" width="100%" alt="GitHub Achievements"/>
+</p>
+
+---
+
+## 🌇 GitHub City
+
+<p align="center">
+  <img src="./metrics-skyline.svg" width="100%" alt="GitHub Skyline"/>
+</p>
+
+---
+
+## 🈷️ Languages
+
+<p align="center">
+  <img src="./metrics-languages.svg" width="100%" alt="Programming Languages"/>
+</p>
+
+---
+
+## 📆 Contribution Calendar
+
+<p align="center">
+  <img src="./metrics-calendar.svg" width="100%" alt="Contribution Calendar"/>
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning. Keep Exploring.
+
+</div>
