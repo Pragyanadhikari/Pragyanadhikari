@@ -121,7 +121,7 @@ I enjoy turning ideas into working solutions, learning through experimentation, 
   <a href="https://github.com/Pragyanadhikari" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/in/pragyan-adhikari/](https://www.linkedin.com/in/pragyan-adhikari-4415b6231/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pragyan-adhikari-4415b6231/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
   <a href="mailto:pragyanadhikari961@gmail.com">
