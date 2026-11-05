@@ -37,7 +37,7 @@ I enjoy turning ideas into working solutions, learning through experimentation, 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,express,nodejs,react,nextjs,flutter,tensorflow,opencv" alt="Frameworks and Libraries"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,react,nextjs,flutter,tensorflow,opencv" alt="Frameworks and Libraries"/>
 </p>
 
 ### Databases
@@ -143,21 +143,6 @@ I enjoy turning ideas into working solutions, learning through experimentation, 
 
 ---
 
-## 💡 Coding Habits & Activity
-
-<p align="center">
-  <img src="./metrics-habits.svg" width="100%" alt="Coding Habits and Activity"/>
-</p>
-
----
-
-## 🎟️ Issues & Pull Requests
-
-<p align="center">
-  <img src="./metrics-followup.svg" width="100%" alt="Issues and Pull Requests"/>
-</p>
-
----
 
 
 ## 🈷️ Languages
